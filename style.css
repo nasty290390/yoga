@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  background-color: #696969;
+  font-family: Tahoma;
+  line-height: 1.5;
+  font-size: 19px;
+  background: url("img/6.jpg");
+}
+
+
+.title {
+  font-size: 45px;
+  color: #543c19;
+
+}
+
+
+ .card {
+   width: 969px;
+   background-color: #e7ead7;
+   box-shadow: 0 3px 30px #DEB887;
+   border-radius: 15% 15% 15% 15% / 30% 30% 30% 30%;
+   margin: 0 auto;
+   text-align: center;
+   }
+
+ .card-photo {
+   width: 590px;
+   background-color: #F5DEB3;
+   box-shadow: 0 3px 30px #DEB887;
+   border-radius: 30%;
+   margin: 0px auto -10px;
+ }
+
+.card-title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.card-text {
+font-size: 16px;
+border-radius: 15% 15% 15% 15% / 30% 30% 30% 30%;
+margin: 20px 130px;
+}
+
+.card-subtitle {
+  font-size: 20px;
+}
